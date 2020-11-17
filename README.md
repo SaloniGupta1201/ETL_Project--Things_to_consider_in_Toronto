@@ -1,8 +1,8 @@
-# Project-1-Crime-Demographics-and-City-Response
+# ETL_Project--Things_to_consider_in_Toronto
 
-**Submitted By:** Dong Yi Kim | Elizabeth Salas martinez | Saif Gorges | Saloni Gupta | Sooyeon Kim </br>
+**Submitted By:** Saloni Gupta </br>
 _Date_: november, 12th, 2020\
-ETL - **Crime-Demographics-and-City-Response** <br/>
+ETL Project - **Things to consider in Toronto** <br/>
 
 ![Toronto image](./Graphs_and_Analysis/Resources/.png)
 
