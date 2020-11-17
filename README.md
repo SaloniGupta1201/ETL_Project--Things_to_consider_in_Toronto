@@ -4,9 +4,6 @@
 _Date_: november, 12th, 2020\
 ETL Project - **Things to consider in Toronto** <br/>
 
-![Toronto image](./Graphs_and_Analysis/Resources/.png)
-
-
 ## Introduction
 It might be a challenge to choose where to live in Toronto when you decide to move or open a business. In this project, we built a database that demonstrated the crime rate, income range, house prices, and population of the neighbourhoods. We wanted to find this information about each neighbourhood and if there are correlations between those measures. We also wanted to look at if those kinds of measures affect the Starbucks locations so that we know what real business consider most when they choose the locations. Our main assumptions were that maybe there is a negative correlation between income/house prices and crime rates, and the average income of neighbourhoods will affect the Starbucks locations. We will also be looking at how the city responds to crime rates in Toronto.
 
@@ -26,7 +23,7 @@ In this project we extracted, transformed, and loaded different types of dataset
 
 ## Data Engineering </br>
 
-![Data_Engineering_image](./Graphs_and_Analysis/Resources/Data_Engineering.png) </br>
+![Data_Engineering_image](./Graphs_and_Analysis/Images/Data_Engineering.png) </br>
 
 ## Data Transformation
 - We used a Pandas functions in Jupyter Notebook to transform all CSV files, scraped data, and API request responses.
