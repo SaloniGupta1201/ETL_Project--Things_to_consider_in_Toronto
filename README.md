@@ -19,7 +19,7 @@ In this project we extracted, transformed, and loaded different types of dataset
   * Speeding Count - ArcGIS API
   * Starbucks Locations - Kaggle
 
-- We make an API call on
+- We make an API call on https://services.arcgis.com/ to fetch Neighborhoods Speeding Tickets Counts
 
 ## Data Engineering </br>
 
@@ -76,8 +76,12 @@ Low Income area has higher crime rate. </br>
 R value -> negative relationship. </br>
 p-value<0.005 -> A statistically significant test result </br>
 The stacked bar graph shows Crime Count per neighborhood for each Income Group which depicts lower income regions have higher crime rate per neighborhood.</br>
+
 #### Red Light Cameras Analysis </br>
 From the graphs above, we can see that the majority of red light cameras are implemented in regions with an average income of 50-100K. Comparing this with the total number of speeding tickets per income region we see that the same income region holds the most amount of speeding tickets. We can conclude from this that red light cameras are not necessarly placed in low income regions, but more-so regions where speeding is more commonplace. </br>
+
+![red_light_cameras_vs_speeding_incodents](./Graphs_and_Analysis/Images/Total%20Spedding%20Counts_vs_Total%20Red%20Lights-linear_regression.png) </br>
+
 #### House Prices and Crime Rate </br>
 It seems that there is a very weak negative correlation between crime rate and house prices.</br>
 #### Starbucks Locations Analysis </br>
